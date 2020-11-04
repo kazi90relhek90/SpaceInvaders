@@ -1,0 +1,59 @@
+#center {
+    background-color: red;
+    color : rgb(37, 197, 37);
+    width: 600px;
+    height: 650px;
+    margin: auto;
+    padding: 15px;
+}
+
+h1 {
+    margin: auto;
+    width: 250px;
+}
+
+#grid div{
+    width: 26px;
+    height: 30px;
+    margin: auto;
+    float: left;
+}
+
+.empty {
+    background-color: black;
+}
+
+.wall {
+    background-color: white;
+} 
+
+.end { 
+    background-color: darkblue;
+}
+
+.enemy {
+    border: 1px, solid black;
+    background-color: blueviolet;
+}
+
+.tank {
+    background-color: red;
+}
+
+.bullet{
+    background-color: gold;
+}
+
+.eBullet{
+    background-color: violet;
+}
+
+html{
+    background-color: black;
+}
+
+button{
+    background-color: black;
+    color: white;
+    margin: auto;
+}
